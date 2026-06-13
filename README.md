@@ -23,6 +23,8 @@ Before recording a distant point-light source in the night sky, the observer bri
 
 This may help distinguish genuine external motion from internally generated apparent motion caused by effects such as autokinesis, microsaccades, atmospheric scintillation, hand tremor amplification, or smartphone stabilization artifacts.
 
+Help Evaluate the STAR Method. Astronomy classes, astronomy clubs, drone clubs, skywatching groups, and other interested observers can help test whether the STAR Method reduces false reports of apparent motion in distant point-light sources utilizing, "33_STAR_Method_You_Can_Help_v1_10.pdf"; which will, "Help Evaluate the STAR Method - A Citizen-Science Observational Test".
+
      1. Extend Thumb, Brace Arm Firmly
      2. Align UAP at End of Thumb
      3. Keep Hand Steady
